@@ -1,0 +1,13 @@
+.home > .block#welcome {
+  max-width: 450px;
+  margin: 0 auto;
+  text-align: center;
+}
+.home > .block#welcome .title {
+  font-size: 28px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
